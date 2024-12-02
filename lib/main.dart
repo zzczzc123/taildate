@@ -3,7 +3,7 @@ import 'package:flutter/material.dart'; // Flutter의 Material Design 라이브�
 void main() {
   runApp(const MyApp()); // Flutter 앱 실행 시작점
 }
-asdasdasdasdasd
+test 1 
 // MyApp 클래스는 StatelessWidget을 상속받아 상태가 변하지 않는 앱의 기본 구조를 정의합니다.
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
